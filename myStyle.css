@@ -1,0 +1,41 @@
+.margin1{border: 2px solid maroon;
+        border-style: double;
+        margin-left: 150px;}
+.margin2{
+	border: 2px solid teal;
+	border-style: double;
+	margin-right: 150px;}
+
+li em{text-decoration: underline;}
+h1 em{text-decoration: overline;}
+
+#color{
+	background-color: lightblue;
+}
+.div{
+	float: left;
+	padding-left: 15px;
+	width: 50%;
+}
+.row{
+	display: table;
+	clear: both;
+}
+.left{
+	border: 2px solid black;
+	margin-left: 50%;
+}
+.picture2{
+	border: 2px solid blue;
+	width: 40%;
+	height: 30%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30%;
+}
+.style2{
+	border: 2px solid lightcoral;
+	text-align: center;
+	background-image: url(beautiful-texture-decorative-venetian-stucco-600w-1193660509.webp);
+	background-position: center center;
+}
